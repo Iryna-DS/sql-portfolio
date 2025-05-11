@@ -47,15 +47,25 @@ The database includes the following tables:
 #	Query Description
 
 1	Revenue by product — total sales revenue per product
+
 2	Revenue by category — aggregated revenue by product category
+
 3	Profit by subcategory — revenue, cost, and profit per subcategory
+
 4	Revenue by month — trend of revenue over time
+
 5	Repeat customers — count of customers with more than one purchase
+
 6	Time between repeat purchases — average number of days between purchases
+
 7	Return rate by product — percentage of sold items that were returned
+
 8	Average order value by region — customer spending patterns across territories
+
 9	Best-selling product categories — most purchased product types
+
 10	Top profit clients — customers generating the highest profits
+
 
 ## 💻 Tools Used
 
