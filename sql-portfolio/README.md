@@ -1,4 +1,4 @@
-## 📊 AdventureWorks SQL Portfolio
+# 📊 AdventureWorks SQL Portfolio
 
 This project showcases my SQL skills using a sample dataset inspired by the AdventureWorks database. It simulates real-world scenarios such as product sales, customer behavior, and regional performance.
 
@@ -18,7 +18,7 @@ The database includes the following tables:
 
 - Territories
 
-## 🎯 Objectives
+# 🎯 Objectives
 
 - Analyze product and category-level performance
 
@@ -28,7 +28,7 @@ The database includes the following tables:
 
 - Identify top-performing regions and customers
 
-## 🧠 Key SQL Skills Demonstrated
+# 🧠 Key SQL Skills Demonstrated
 
 - Complex joins across multiple tables
 
@@ -42,9 +42,9 @@ The database includes the following tables:
 
 - Business-oriented insights from raw data
 
-## 🔍 SQL Queries Included
+# 🔍 SQL Queries Included
 
-#	Query Description
+##	Query Description
 
 1	Revenue by product — total sales revenue per product
 
@@ -67,7 +67,7 @@ The database includes the following tables:
 10	Top profit clients — customers generating the highest profits
 
 
-## 💻 Tools Used
+# 💻 Tools Used
 
 - PostgreSQL (via pgAdmin 4)
 
