@@ -1,46 +1,51 @@
-📊 AdventureWorks SQL Portfolio
+## 📊 AdventureWorks SQL Portfolio
+
 This project showcases my SQL skills using a sample dataset inspired by the AdventureWorks database. It simulates real-world scenarios such as product sales, customer behavior, and regional performance.
 
 The database includes the following tables:
 
-Customers
+- Customers
 
-Product_Categories
+- Product_Categories
 
-Product_Subcategories
+- Product_Subcategories
 
-Products 
+- Products 
 
-Sales2016
+- Sales2016
 
-Returns
+- Returns
 
-Territories
+- Territories
 
-🎯 Objectives
-Analyze product and category-level performance
+## 🎯 Objectives
 
-Explore customer retention and repeat purchase behavior
+- Analyze product and category-level performance
 
-Measure return rates and profit margins
+- Explore customer retention and repeat purchase behavior
 
-Identify top-performing regions and customers
+- Measure return rates and profit margins
 
-🧠 Key SQL Skills Demonstrated
-Complex joins across multiple tables
+- Identify top-performing regions and customers
 
-Aggregations and grouping
+## 🧠 Key SQL Skills Demonstrated
 
-Common Table Expressions 
+- Complex joins across multiple tables
 
-Window functions 
+- Aggregations and grouping
 
-Date and time manipulation
+- Common Table Expressions 
 
-Business-oriented insights from raw data
+- Window functions 
 
-🔍 SQL Queries Included
+- Date and time manipulation
+
+- Business-oriented insights from raw data
+
+## 🔍 SQL Queries Included
+
 #	Query Description
+
 1	Revenue by product — total sales revenue per product
 2	Revenue by category — aggregated revenue by product category
 3	Profit by subcategory — revenue, cost, and profit per subcategory
@@ -52,3 +57,8 @@ Business-oriented insights from raw data
 9	Best-selling product categories — most purchased product types
 10	Top profit clients — customers generating the highest profits
 
+## 💻 Tools Used
+
+- PostgreSQL (via pgAdmin 4)
+
+- Git & GitHub for version control
